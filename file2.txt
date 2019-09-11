@@ -1,4 +1,8 @@
 this is my new feature.
 bug fixed
 1ahfajfahfjahajfhhf
+<<<<<<< HEAD
 111111111111
+=======
+222222222222
+>>>>>>> my-branch-2
